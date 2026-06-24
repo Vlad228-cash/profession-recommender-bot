@@ -1,2 +1,2 @@
-# professions-recommender-
-AI-powered career recommendation system. Analyzes your interests and matches them to the best profession using NLP and TF-IDF.
+# profession-recommender-bot
+Telegram bot that recommends professions based on user interests using TF-IDF and cosine similarity.
